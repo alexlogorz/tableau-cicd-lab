@@ -1,0 +1,5 @@
+tableau:
+  server: https://us-east-1.online.tableau.com
+  site: alexlogorz-jsqkbnqg
+  project: Tableau CI-CD Lab
+  workbook: PermitPugDashboard
